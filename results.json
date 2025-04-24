@@ -3,16 +3,16 @@
     "vocab_length": 1804
   },
   "test_build_lm": {
-    "english_2_gram_length": 747,
-    "english_3_gram_length": 8238,
-    "french_3_gram_length": 8285,
-    "spanish_3_gram_length": 8468
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 31.62,
-    "en_on_fr": 114.15,
-    "en_on_tl": 1369.86,
-    "en_on_nl": 1182.62
+    "en_on_en": 7.08,
+    "en_on_fr": 8.45,
+    "en_on_tl": 16.25,
+    "en_on_nl": 14.63
   },
   "test_match": "NameError(\"name 'match' is not defined\")",
   "test_generate": "NameError(\"name 'generate' is not defined\")"
